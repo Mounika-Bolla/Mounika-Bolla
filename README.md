@@ -5,7 +5,6 @@
 - Algorithm Design
 - Machine Learning
 - Buliding AI applications using popular libraries like tensorflow, scikitlearn
-- Fully Responsive Front end web design
 - Data Science
 - 🔭 I’m currently working on Electric Vehicle Charge Scheduling problem,Voice Cloning Using Deep Learning.
 - 🌱 I’m currently learning Natural Language Processing.
