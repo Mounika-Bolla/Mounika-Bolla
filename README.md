@@ -66,10 +66,15 @@ Automated pipeline for ingesting and scoring cyber-attack reports, powering ente
 ## 🧠 **Technical Skills**
 
 **AI/ML:** PyTorch, TensorFlow, Scikit-learn, XGBoost, CNN, RNN, LSTM, Transformers
+
 **NLP/CV:** BERT, FinBERT, YOLO, EfficientNet, MobileNet, OpenCV
+
 **Agents & LLMs:** LangChain, RAG, OpenAI API, Gemini API, Multi-agent systems
+
 **Cloud/MLOps:** Docker, Kubernetes, MLflow, Airflow, AWS, Azure, CI/CD, OpenTelemetry
+
 **Backend:** FastAPI, Flask, Django, PostgreSQL, Redis, MongoDB
+
 **Big Data:** Spark, Kafka, Hadoop, PySpark
 
 ---
