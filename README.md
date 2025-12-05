@@ -21,10 +21,15 @@
 ## 🏆 **Impact Highlights**
 
 ✔ Built ECG risk-stratification system achieving **98.84% accuracy, 0.999 AUC**, deployed as real-time clinical prototype
+
 ✔ Created violence detection system with **sub-50ms inference**, and **80–90% inference cost reduction**
+
 ✔ Designed cyber-attack intelligence agent that autonomously synthesizes global attack data
+
 ✔ Built predictive maintenance model reducing equipment downtime by **40%**
+
 ✔ Engineered multi-agent resume tailoring system powering personalized job-matching
+
 ✔ Designed scalable CV pipelines analyzing **10K+ consumable transactions daily**
 
 ---
@@ -80,7 +85,9 @@ Automated pipeline for ingesting and scoring cyber-attack reports, powering ente
 ## 🌐 **Let’s Connect**
 
 💼 LinkedIn: *linkedin.com/in/mounika-bolla-47387a212*
+
 📧 Email: *[mounikabollav@gmail.com](mailto:mounikabollav@gmail.com)*
+
 🔗 GitHub: *github.com/Mounika-Bolla*
 
 ---
